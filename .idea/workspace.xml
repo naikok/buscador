@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e76fa8af-181b-459d-8e64-a0beb20af742" name="Default" comment="" />
+    <ignored path="destinia.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="destinia" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SearchService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core/Services/Search/SearchService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchBusinessService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core/BusinessService/SearchBusinessService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransformResultArraySearch.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core/Transformers/TransformResultArraySearch.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LEEME" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Documentacion/Despliegue/LEEME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="102" selection-start-line="31" selection-start-column="102" selection-end-line="31" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basededatos.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Documentacion/Despliegue/basededatos.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchBusinessServiceTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core/BusinessService/tests/SearchBusinessServiceTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandLineService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core/Services/CommandLine/CommandLineService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchServiceTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Core/Services/Search/tests/SearchServiceTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9930915">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPersistenceService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core/PersistenceService/IPersistenceService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core/Services/Printer/PrintService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#70#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Core/Interface/IPersistenceService.php" />
+        <option value="$PROJECT_DIR$/Core/PersistenceService.php" />
+        <option value="$PROJECT_DIR$/Core/PersistenceService/SearchService.php" />
+        <option value="$PROJECT_DIR$/Core/PersistenceService/PersistenceService.php" />
+        <option value="$PROJECT_DIR$/script.php" />
+        <option value="$PROJECT_DIR$/Core/Transformers/TransformArray.php" />
+        <option value="$PROJECT_DIR$/Core/BusinessService/SearchService.php" />
+        <option value="$PROJECT_DIR$/Configuration/db_config.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Core/Services/IService.php" />
+        <option value="$PROJECT_DIR$/Core/Services/Search/Repository/SearchRepository.php" />
+        <option value="$PROJECT_DIR$/Core/Services/Search/Repository/IRepository.php" />
+        <option value="$PROJECT_DIR$/tests/Core/BusinessService/SearchBusinessServiceTest.php" />
+        <option value="$PROJECT_DIR$/Core/PersistenceService/tests/PersistenceServiceTest.php" />
+        <option value="$PROJECT_DIR$/Core/PersistenceService/tests/PersistenceTest.php" />
+        <option value="$PROJECT_DIR$/Core/BusinessService/tests/SearchBusinessServiceTest.php" />
+        <option value="$PROJECT_DIR$/Core/BusinessService/SearchBusinessService.php" />
+        <option value="$PROJECT_DIR$/Core/Transformers/TransformResultArraySearch.php" />
+        <option value="$PROJECT_DIR$/Core/Services/Printer/PrintService.php" />
+        <option value="$PROJECT_DIR$/Core/PersistenceService/IPersistenceService.php" />
+        <option value="$PROJECT_DIR$/Core/Transformers/ITransformer.php" />
+        <option value="$PROJECT_DIR$/Core/PersistenceService/Persistence.php" />
+        <option value="$PROJECT_DIR$/Configuration/database.php" />
+        <option value="$PROJECT_DIR$/Documentacion/Despliegue/LEEME" />
+        <option value="$PROJECT_DIR$/Documentacion/Despliegue/basededatos.sql" />
+        <option value="$PROJECT_DIR$/Core/Services/Search/tests/SearchServiceTest.php" />
+        <option value="$PROJECT_DIR$/Core/Services/Search/SearchService.php" />
+        <option value="$PROJECT_DIR$/Core/Services/CommandLine/CommandLineService.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/vagrant/php7/www/kayoo2-api" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Documentacion/Diagramas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Documentacion/Diagramas" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/Configuration" />
+      <recent name="$PROJECT_DIR$/Core/PersistenceService" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e76fa8af-181b-459d-8e64-a0beb20af742" name="Default" comment="" />
+      <created>1478076963167</created>
+      <option name="number" value="Default" />
+      <updated>1478076963167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="723" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40905482" sideWeight="0.62528735" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24765626" sideWeight="0.37471265" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Core/Services/Printer/PrintService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/PersistenceService/Persistence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Search/SearchService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Transformers/ITransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Transformers/TransformResultArraySearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/BusinessService/SearchBusinessService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Despliegue/LEEME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Despliegue/basededatos.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/PersistenceService/IPersistenceService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Printer/PrintService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/PersistenceService/Persistence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Search/tests/SearchServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/phpunit-4.8.27.phar/phpunit/Framework/Assert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1368" column="27" selection-start-line="1368" selection-start-column="27" selection-end-line="1368" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Search/SearchService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/BusinessService/tests/SearchBusinessServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/BusinessService/SearchBusinessService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="86" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/PersistenceService/IPersistenceService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/CommandLine/CommandLineService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Diagramas/Diagrama-E-R-basededatos.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Diagramas/diagrama-de-clases-minificado.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Diagramas/diagrama-de-clases.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.25">
+          <caret line="1577" column="9" selection-start-line="1577" selection-start-column="9" selection-end-line="1577" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3456376">
+          <caret line="667" column="9" selection-start-line="667" selection-start-column="9" selection-end-line="667" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\ITransformer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\ITransformer</OriginalElement>
+          <nodes>
+            <node x="" y="">\ITransformer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="73.0" y="875.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\SearchService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\SearchService</OriginalElement>
+          <nodes>
+            <node x="" y="">\CommandLineService</node>
+            <node x="" y="">\SearchBusinessService</node>
+            <node x="" y="">\Persistence</node>
+            <node x="" y="">\ITransformer</node>
+            <node x="" y="">\IPersistenceService</node>
+            <node x="" y="">\TransformResultArraySearch</node>
+            <node x="" y="">\PrintService</node>
+            <node x="" y="">\SearchService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="178.0" y="261.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Persistence">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Persistence</OriginalElement>
+          <nodes>
+            <node x="" y="">\Persistence</node>
+            <node x="" y="">\IPersistenceService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\IPersistenceService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\IPersistenceService</OriginalElement>
+          <nodes>
+            <node x="" y="">\IPersistenceService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\CommandLineService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\CommandLineService</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">\CommandLineService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-179.0" y="-39.0" />
+          <SelectedNodes>
+            <node>\CommandLineService</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\SearchBusinessService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\SearchBusinessService</OriginalElement>
+          <nodes>
+            <node x="0.0" y="179.5">\IRepository</node>
+            <node x="257.0" y="435.0">\CommandLineService</node>
+            <node x="8.0" y="657.0">\SearchBusinessService</node>
+            <node x="212.0" y="146.0">\Persistence</node>
+            <node x="18.5" y="435.0">\ITransformer</node>
+            <node x="501.54999999999995" y="0.0">\IPersistenceService</node>
+            <node x="0.0" y="537.0">\TransformResultArraySearch</node>
+            <node x="314.0" y="657.0">\PrintService</node>
+            <node x="191.0" y="315.0">\SearchService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\SearchService" target="\IRepository">
+              <point x="-173.66666666666663" y="-37.5" />
+              <point x="277.83333333333337" y="290.0" />
+              <point x="96.0" y="290.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="\SearchService" target="\Persistence">
+              <point x="0.0" y="-37.5" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="\TransformResultArraySearch" target="\ITransformer">
+              <point x="0.0" y="-37.5" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="\SearchService" target="\IPersistenceService">
+              <point x="173.66666666666663" y="-37.5" />
+              <point x="625.1666666666666" y="290.0" />
+              <point x="701.5" y="290.0" />
+              <point x="701.5" y="121.0" />
+              <point x="629.8" y="121.0" />
+              <point x="42.75" y="48.0" />
+            </edge>
+            <edge source="\Persistence" target="\IPersistenceService">
+              <point x="0.0" y="-59.5" />
+              <point x="451.5" y="121.0" />
+              <point x="544.3" y="121.0" />
+              <point x="-42.75" y="48.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-147.0" y="221.0" />
+          <SelectedNodes>
+            <node>\SearchBusinessService</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Search/Repository/IRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Diagramas/diagrama-de-clases-minificado.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Diagramas/diagrama-de-clases.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Diagramas/Diagrama-E-R-basededatos.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/phpunit-4.8.27.phar/phpunit/Framework/Assert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1368" column="27" selection-start-line="1368" selection-start-column="27" selection-end-line="1368" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Transformers/ITransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/PersistenceService/Persistence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Despliegue/basededatos.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Search/SearchService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Transformers/TransformResultArraySearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/BusinessService/SearchBusinessService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/CommandLine/CommandLineService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentacion/Despliegue/LEEME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="102" selection-start-line="31" selection-start-column="102" selection-end-line="31" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/BusinessService/tests/SearchBusinessServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Search/tests/SearchServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9930915">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/PersistenceService/IPersistenceService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Services/Printer/PrintService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

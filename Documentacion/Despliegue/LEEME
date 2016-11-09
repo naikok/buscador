@@ -1,0 +1,63 @@
+------ README ---------
+
+Descripción:
+
+Esta aplicación es un buscador de hoteles y apartamentos que hemos desarrollado bajo PHP 5.6. La aplicación desarrollada funciona por consola.
+La base de datos utilizada es MySql, dentro de la carpeta Documentación => Diagramas => Diagrama-E-R-basededatos.jpg se puede
+ver el esquema realizado de la base de datos para su desarrollo.
+Para correr dicha aplicación necesitamos tener PHP 5.6 instalado en el sistema y MySql server como motor gestor de base de datos.
+Lo primero de todo, es volcar la base de datos a Mysql, dentro de la carpeta Documentacion => Despliegue, hay un archivo basededatos.sql
+que contiene el script de tablas y datos que necesitamos volcar al sistema mysql server.
+
+La base de datos se encuentra en Documentación => Despliegue => basededatos.sql y se puede volcar así:
+
+    Comando: mysql -u <usuariomysql> -p<contraseñamysql> < basededatos.sql
+
+Configuración base de datos:
+
+    Debemos establecer una conexión con la base de datos, para ello debemos ir al archivo  de la carpeta Configuration => database.php
+
+    Editar los valores de configuración de conexión a base de datos:
+
+    CONST host = '<ip_maquina_del_mysql, por defecto es localhost>';
+    CONST username = '<usuariomysql>';
+    CONST password = '<passwordmysql>';
+    CONST database_name = ‘alojamientodb’; //este es el nombre de la base de datos volcada anteriormente
+    CONST port = '<portmysql, por defecto es el 3306>';
+
+Debemos guardar el fichero de configuración.
+
+Ejecutar la aplicación:
+
+    Ir a la carpeta del proyecto mediante linea de comandos y ejecutar el index.php del root principal así.
+
+        Comando: php index.php
+
+    Acto seguido una consola te pedirá los parámetros de búsqueda para proceder a realizar la busqueda, teclear la palabra a buscar y darle
+    enter. Podeís buscar por ejemplo palabras como: Huesca, Hotel, Abba, Mojacar, Malaga, Málaga ... son algunos de los datos metidos en base de
+    datos y contienen resultados, sino encuentra resultados os devolverá que no hay resultados encontrados.
+
+Solución de la aplicación:
+
+    La arquitectura del sistema esta basada en un núcleo principal o Core que contiene servicios que se pueden instanciar para
+    dar funcionalidad a la aplicación, se trabaja todo con interfaces en las que los servicios cumplen con esa interfaz por contrato ya que da mayor flexibilidad.
+    Por encima de los servicios, hay una capa de lógica de negocio que hace uso de los servicios, el servicio principal es el de
+    búsqueda que hace uso de la capa de persistencia, aunque hay otros servicios como la linea de comandos y el servicio de impresión de resultados.
+    Usamos inyección de dependencia en los servicios para que hagan uso de los objetos que necesitan esas clases y la idea es que cada clase tenga una
+    única responsabilidad (principios SOLID). Si se desea añadir más funcionalidad, únicamente hay que añadir el nuevo servicio.
+    De esta manera la nueva funcionalidad esta encapsulada en servicios independientes y separados que hacen la aplicación más escalable evitando la duplicidad de código
+    (DRY, don't repeat yourself). Esto ayuda a organizar el código y hacer testeos mucho más simples y unitarios.
+
+    Para más referencias respecto al diseño aplicado, en la carpeta Documentación => Diagramas podeís ver todos los diseños sobre base de datos, diagrama de clases, y casos de uso de la aplicación.
+
+    Respecto a los tests: Habría que ampliar el número de tests unitarios para cada clase, ahora mismo hay dos desarrollados, pero debería de hacerse con TDD (Test Driven Development) el desarrollo de la aplicación, por falta de tiempo no he podido ampliarlos, aquí os dejo como ejecutar alguno de ellos.
+
+    Para ejecutar algunos de los tests desarrollados hay que ir a la carpeta de proyecto y una vez dentro ejecutar:
+
+        Comando: php phpunit-4.8.27.phar -- Core/Services/Search/tests/SearchServiceTest.php
+        Comando: php phpunit-4.8.27.phar -- Core/BusinessService/tests/SearchBusinessServiceTest.php
+
+
+
+
+
