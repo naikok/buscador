@@ -16,7 +16,7 @@ class SearchServiceTest extends PHPUnit_Framework_TestCase
                       'username' => '',
                       'password' =>'123456',
                       'port' => '3306',
-                      'dbname' =>'destini'
+                      'dbname' =>'alojamientod'
                 )
             )
 
