@@ -43,7 +43,7 @@ class SearchService extends Persistence implements IPersistenceService, IReposit
             throw new Exception("Please provide a port where the database system is located");
 
         if (!$transformer)
-            throw new Exception("Please provide a transformer to transform the ouput");
+            throw new Exception("Please provide a transformer to transform the output");
 
         parent::__construct($host, $username, $password, $database, $port);
         $this->transformer = $transformer;
